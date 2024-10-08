@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack WEB Developmet**
 
-- 🌱 I’m currently learning **Html, CSS, ReactJs, JavaScript, MongoDB, Express DOM**
+- 🌱 I’m currently learning **Html, CSS, ReactJs, JavaScript, MongoDB, Express DOM React**
 
 - 👯 I’m looking to collaborate on **Mern Stack projects, Open Source**
 
